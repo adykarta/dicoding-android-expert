@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Film List</string>
+    <string name="title_activity_detail_film">DetailFilmActivity</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="film">Movies</string>
+    <string name="tvshow">Tv Shows</string>
+
+
+    <string name="title">title</string>
+    <string name="dateline">date</string>
+    <string name="description_film">Overview</string>
+    <string name="description">lorem ipsum</string>
+    <string name="genre_film">Genre</string>
+    <string name="genre">genre</string>
+    <string name="rating">rating</string>
+    <string name="duration">duration</string>
+    <string name="owner">Film List by: Muhamad Istiady Kartadibrata</string>
+    <string name="favorite_action">favorite_action</string>
+    <string name="message_undo">Cancel delete item</string>
+    <string name="message_ok">OK</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="favorites">Favorites</string>
+</resources>
